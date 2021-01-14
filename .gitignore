@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+#ignore everthing
+/working/**
+
+
 # Session Data files
 .RData
 
